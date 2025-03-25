@@ -59,7 +59,7 @@ function [plot_A_DT,array_start_time] = CC_CAF(data_flag,data_receiver,fre_lag, 
          end
      end
 
-      %5.Plot CAF figure
+      %Plot CAF figure
         min_A_TRD = -10;
         max_A_TRD = 0;
         plot_A_DT = abs(rot90(A_TD));
