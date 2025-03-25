@@ -5,7 +5,7 @@ Thank you for your interest in our work! This repository **maintains all the cod
 ## Introduction
 In this work, we proposed a **Doppler-only multistatic passive unmanned aerial vehicles (UAVs) tracking system utilizing downlink long-term evolution (LTE) signals**. The performance of trajectory tracking is demonstrated by experiments on a low-altitude two-dimensional plain. Our experiments demonstrated that **the tracking errors are below 50 cm for 90% of the trajectory, when the distance between the UAV and sensing receivers is below 30 m**. 
 
-**Note: Detailed documentation of each directory, source codes, and paper information will be coming soon (maybe after paper acceptance).**
+**Note: Detailed documentation of each directory, source codes, and paper information will be coming soon (maybe after paper acceptance). **
 
 <img src="./README.assets/Experiment.png" style="zoom:50%;" />
 
