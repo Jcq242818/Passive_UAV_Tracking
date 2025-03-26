@@ -60,7 +60,7 @@ Dataset
 ### 1. Clone this Repository
 
 ```bash
-git clone https://github.com/Jcq242818/Passive_UAV_Tracking.git --recursive
+git clone https://github.com/Jcq242818/Passive_UAV_Tracking.git
 ```
 
 ### 2. **Download the Dataset**
