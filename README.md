@@ -77,12 +77,14 @@ Open MATLAB and run the **[main.m](./main.m)** scripts to read the raw **.mat** 
 If you find the repository is helpful to your research projects, please cite as follows:
 
 ```bibtex
-@inproceedings{zhao2023nerf2,
-    author = {Chenqing Ji, Jiahong Liu, Qionghui Liu, Yifei Sun, Chao Yu and Rui Wang},
-    title = {An Experimental Study on Fine-Grained Multistatic Sensing of UAV Trajectory via Cellular Downlink Signal},
-    booktitle = {},
-    pages = {1--5},
-    year = {2025}
+@article{ji2026experimental,
+  title={An Experimental Study on Fine-Grained Bistatic Sensing of UAV Trajectory via Cellular Downlink Signals},
+  author={Ji, Chenqing and Liu, Jiahong and Liu, Qionghui and Sun, Yifei and Yu, Chao and Wang, Rui},
+  journal={IEEE Wireless Communications Letters},
+  volume={15},
+  pages={1807--1811},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 
